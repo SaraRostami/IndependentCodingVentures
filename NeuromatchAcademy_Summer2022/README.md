@@ -8,4 +8,4 @@ We worked on the data from the gambling task of the HCB dataset.<p>**Question:**
 ## What we did
 We calculated individual-level RDMs and performed RSA analysis to compare the brain activation patterns during win and loss trials. for the group-level analysis, we used the Random Forest classifier.
 
-**Members:** Sara Rostami, Srijita Karmakar, Sunghyun Park, Muskan Mittal
+**Members:** Srijita Karmakar, Sunghyun Park, Sara Rostami, Muskan Mittal
